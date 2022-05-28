@@ -1,0 +1,1 @@
+teacher;1;teacher1;111111;CSE;Fall2022;2;GUI;CMP256;3;3;53;93;35;3;Mohamed Alshafai;b00087311;Zahra Karmani;g00038423;Sameer Aqeel;b00024321;DATA;305;3;3;24;93;35;3;Mohamed Alshafai;b00087311;Zahra Karmani;g00038423;Sameer Aqeel;b00024321;
